@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slider Puzzle</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="play">Play</string>
+    <string name="hiscores">Hiscores</string>
+</resources>
